@@ -14,6 +14,7 @@ public class Test1 {
 		System.out.println("This is specially for GitHub");
 		Test1 t1=new Test1();
 		t1.login();
+		System.out.println("commit");
 
 		
 		
